@@ -1,0 +1,17 @@
+.cardBack {
+  background-color: black;
+}
+
+.textCard {
+  color: white;
+}
+
+.mainTitle {
+  color: rgb(248, 226, 28);
+  font-weight: bold;
+}
+
+.cardSize {
+  width: 14rem;
+  margin-bottom: 0px;
+}
